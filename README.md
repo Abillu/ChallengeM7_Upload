@@ -1,22 +1,37 @@
-# ChallengeM7_Upload
-# Analysis of Housing Rental Market Data for San Francisco
+# An exchange-traded fund (ETF) Analyzer
 This is an  exploratory data analysis (EDA) which deploys data visualization skills, including aggregation, interactive visualizations, and geospatial (that is, location-based) analysis. The ultimate goal is to identify the patterns and relationships in the data  to be used to find properties in the San Francisco market that are viable investment opportunities.
 
+This is an analysis of ETF data stored in SQL database to establish the performance of a hypothetical fintech ETF that consists of four stocks. The analysis is presented through professionally styled and formatted interactive visualizations and a screenshot of the web application that I created by deploying my Jupyter notebook via the Voilà library. 
+
 ## Methodology and Approach
-Used the hvPlot library to create visualizations to facilitate interaction with and exploration of the housing rental market data.
 
-Visualized geospatial data by using hvPlot and GeoViews.
+Used SQL queries with Python, Pandas, and hvPlot to analyze the performance of a single asset from the ETF
 
-Built professionally styled and formatted data visualizations that incorporate multiple plots and convey the data story to an audience.
+Used advanced SQL queries to optimize the efficiency of accessing data from the database.
 
+Built the ETF portfolio by using SQL joins to combine all the data for each asset and then evaluated its performance.
 
 ## Libraries and Technologies Used
 
 - Pandas library -  a Python library for data analysis. 
 
-- hvPlot and GeoViews- visualization libraries. 
+- hvPlot - visualization library. 
+
+-  Voilà library - to deploy the Juypter library as a web application
 
 - Jupyter notebook
 
-## Summary of findings 
-The analysis of the housing rental market data established that viable investment opportunities exists in San Francisco properties market. During the period of the analysis there was steady growth in the housing units per year and in the  average rental income and sales prices in the neighorhoods of San Francisco.
+## ETF financial application deployed to the web
+Below are the screenshots of the ETF financial application deployed as a web application:
+
+![ETF Web Application](ETF_Analyzer1.JPG)
+![ETF Web Application](ETF_Analyzer2.JPG)
+![ETF Web Application](ETF_Analyzer3.JPG)
+![ETF Web Application](ETF_Analyzer4.JPG)
+![ETF Web Application](ETF_Analyzer5.JPG)
+![ETF Web Application](ETF_Analyzer6.JPG)
+![ETF Web Application](ETF_Analyzer7.JPG)
+![ETF Web Application](ETF_Analyzer8.JPG)
+![ETF Web Application](ETF_Analyzer9.JPG)
+---
+
