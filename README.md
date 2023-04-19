@@ -24,14 +24,14 @@ Built the ETF portfolio by using SQL joins to combine all the data for each asse
 ## ETF financial application deployed to the web
 Below are the screenshots of the ETF financial application deployed as a web application:
 
-![ETF Web Application](ETF_Analyzer1.JPG)
-![ETF Web Application](ETF_Analyzer2.JPG)
-![ETF Web Application](ETF_Analyzer3.JPG)
-![ETF Web Application](ETF_Analyzer4.JPG)
-![ETF Web Application](ETF_Analyzer5.JPG)
-![ETF Web Application](ETF_Analyzer6.JPG)
-![ETF Web Application](ETF_Analyzer7.JPG)
-![ETF Web Application](ETF_Analyzer8.JPG)
-![ETF Web Application](ETF_Analyzer9.JPG)
+![ETF Web Application](images/ETF_Analyzer1.JPG)
+![ETF Web Application](images/ETF_Analyzer2.JPG)
+![ETF Web Application](images/ETF_Analyzer3.JPG)
+![ETF Web Application](images/ETF_Analyzer4.JPG)
+![ETF Web Application](images/ETF_Analyzer5.JPG)
+![ETF Web Application](images/ETF_Analyzer6.JPG)
+![ETF Web Application](images/ETF_Analyzer7.JPG)
+![ETF Web Application](images/ETF_Analyzer8.JPG)
+![ETF Web Application](images/ETF_Analyzer9.JPG)
 ---
 
