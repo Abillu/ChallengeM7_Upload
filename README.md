@@ -1,6 +1,4 @@
-# An exchange-traded fund (ETF) Analyzer
-This is an  exploratory data analysis (EDA) which deploys data visualization skills, including aggregation, interactive visualizations, and geospatial (that is, location-based) analysis. The ultimate goal is to identify the patterns and relationships in the data  to be used to find properties in the San Francisco market that are viable investment opportunities.
-
+# An Exchange-Traded Fund (ETF) Analyzer
 This is an analysis of ETF data stored in SQL database to establish the performance of a hypothetical fintech ETF that consists of four stocks. The analysis is presented through professionally styled and formatted interactive visualizations and a screenshot of the web application that I created by deploying my Jupyter notebook via the Voilà library. 
 
 ## Methodology and Approach
@@ -14,6 +12,8 @@ Built the ETF portfolio by using SQL joins to combine all the data for each asse
 ## Libraries and Technologies Used
 
 - Pandas library -  a Python library for data analysis. 
+
+- SQLAlchemy -SQL library for Python
 
 - hvPlot - visualization library. 
 
