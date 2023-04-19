@@ -17,12 +17,12 @@ Built the ETF portfolio by using SQL joins to combine all the data for each asse
 
 - hvPlot - visualization library. 
 
--  Voilà library - to deploy the Juypter library as a web application
+- Voilà library - to deploy the Juypter library as a web application
 
 - Jupyter notebook
 
 ## ETF financial application deployed to the web
-Below are the screenshots of the ETF financial application deployed as a web application:
+Below is the ETF analysis deployed as a web application:
 
 ![ETF Web Application](images/ETF_Analyzer1.JPG)
 ![ETF Web Application](images/ETF_Analyzer2.JPG)
